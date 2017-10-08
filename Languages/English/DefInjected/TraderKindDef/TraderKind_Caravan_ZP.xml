@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_SAmurai_BulkGoods.label>廻船問屋</ZP_SAmurai_BulkGoods.label>
-  <ZP_Samurai_CombatSupplier.label>武器商</ZP_Samurai_CombatSupplier.label>
-  <ZP_Samurai_PirateMerchant.label>奴隷商</ZP_Samurai_PirateMerchant.label>
-  <ZP_Samurai_Exotic.label>珍品商</ZP_Samurai_Exotic.label>
+  <ZP_SAmurai_BulkGoods.label>OrbitalBulkGoodsTrader</ZP_SAmurai_BulkGoods.label>
+  <ZP_Samurai_CombatSupplier.label>CombatSupplier</ZP_Samurai_CombatSupplier.label>
+  <ZP_Samurai_PirateMerchant.label>PirateMerchant</ZP_Samurai_PirateMerchant.label>
+  <ZP_Samurai_Exotic.label>ExoticGoodsTrader</ZP_Samurai_Exotic.label>
 
 
 </LanguageData>
