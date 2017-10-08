@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Apparel 分類 下着 -->
+
+  <ZP_NinjaApparel.label>忍装束</ZP_NinjaApparel.label>
+  <ZP_NinjaApparel.description>隠密や偵察に使われる衣装。素早く移動できるので奇襲することができる。</ZP_NinjaApparel.description>
+
+  <ZP_MikoApparel.label>巫女装束</ZP_MikoApparel.label>
+  <ZP_MikoApparel.description>神道の巫女が着用する衣装。神の加護が宿っており邪悪な気から守ってくれる。</ZP_MikoApparel.description>
+
+  <ZP_GujiApparel.label>神官装束</ZP_GujiApparel.label>
+  <ZP_GujiApparel.description>神道の宮司が着用する衣装。神の加護が宿っており邪悪な気から守ってくれる。</ZP_GujiApparel.description>
+
+  <ZP_SamuraiApparel.label>侍服</ZP_SamuraiApparel.label>
+  <ZP_SamuraiApparel.description>侍が着用する衣装。侍魂が宿っているので近接戦闘の際に加護を得ることが出来る。</ZP_SamuraiApparel.description>
+
+
+  <!-- 足軽具足 Base 防弾チョッキ -->
+
+  <ZP_AsigaruArmor.label>足軽具足</ZP_AsigaruArmor.label>
+  <ZP_AsigaruArmor.description>足軽が着る鎧。どんな状況でも対応できるように動きやすい工夫が施されている。</ZP_AsigaruArmor.description>
+
+
+  <!-- 胸当て Base 防弾チョッキ -->
+
+  <ZP_ArcherArmor.label>胸当て</ZP_ArcherArmor.label>
+  <ZP_ArcherArmor.description>弓兵がつける防具。安定した射撃をする事ができる。</ZP_ArcherArmor.description>
+
+
+  <!-- 羽織 Base パーカー -->
+
+  <ZP_HaoriApparel.label>羽織</ZP_HaoriApparel.label>
+  <ZP_HaoriApparel.description>寒い冬にぴったりな上着。礼服としても使えるので大事な御もてなしの際にも重宝する。</ZP_HaoriApparel.description>
+
+
+  <!-- 将軍鎧 Base パワーアーマー -->
+
+  <ZP_SyogunArmor.label>将軍鎧</ZP_SyogunArmor.label>
+  <ZP_SyogunArmor.description>将軍のみつける事が許された鎧。分厚い装甲によって守られているので合戦の覇者になれる。</ZP_SyogunArmor.description>
+
+
+  <!-- 陣笠 Base ヘルメット -->
+
+  <ZP_JingasaHelmet.label>陣笠</ZP_JingasaHelmet.label>
+  <ZP_JingasaHelmet.description>足軽の頭部を守る笠。</ZP_JingasaHelmet.description>
+
+
+  <!-- 将軍兜 Base パワーアーマヘルメット -->
+
+  <ZP_SyougunHelmet.label>将軍兜</ZP_SyougunHelmet.label>
+  <ZP_SyougunHelmet.description>将軍のみつける事が許された兜。将軍たるもの強き精神を持つべし。</ZP_SyougunHelmet.description>
+
+
+  <!-- 足装備 -->
+
+  <ZP_Warazi.label>わらじ</ZP_Warazi.label>
+  <ZP_Warazi.description>藁で作られる日本の伝統的な履物。足にフィットし移動を快適にしてくれる。</ZP_Warazi.description>
+
+
+</LanguageData>

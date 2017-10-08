@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_BloodyScout.label>血塗れ斥候兵</ZP_BloodyScout.label>
+  <ZP_BloodyScout.labelPlural>血塗れ斥候兵s</ZP_BloodyScout.labelPlural>
+
+  <ZP_BloodyGrenadier.label>血塗れ足軽擲弾兵</ZP_BloodyGrenadier.label>
+  <ZP_BloodyGrenadier.labelPlural>血塗れ足軽擲弾兵s</ZP_BloodyGrenadier.labelPlural>
+
+  <ZP_BloodyAsigaru.label>血塗れ足軽近接兵</ZP_BloodyAsigaru.label>
+  <ZP_BloodyAsigaru.labelPlural>血塗れ足軽近接兵s</ZP_BloodyAsigaru.labelPlural>
+
+  <ZP_BloodyArcher.label>血塗れ足軽射手兵</ZP_BloodyArcher.label>
+  <ZP_BloodyArcher.labelPlural>血塗れ足軽射手兵s</ZP_BloodyArcher.labelPlural>
+
+  <ZP_BloodySyougun.label>血塗れ将軍</ZP_BloodySyougun.label>
+  <ZP_BloodySyougun.labelPlural>血塗れ将軍s</ZP_BloodySyougun.labelPlural>
+
+
+</LanguageData>

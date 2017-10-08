@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料 -->
+
+  <Momigalite.label>モミガライト</Momigalite.label>
+  <Momigalite.description>籾殻を燃料用に加工したもの。</Momigalite.description>
+
+  <FuelStraw.label>燃料用藁</FuelStraw.label>
+  <FuelStraw.description>藁を燃料用に加工したもの。</FuelStraw.description>
+
+
+  <!-- 米俵 -->
+
+  <StrawRiceBag_RawRice.label>米俵(米)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>米(生)を大量に保管できる。また、特産品として売れる。</StrawRiceBag_RawRice.description>
+
+
+</LanguageData>

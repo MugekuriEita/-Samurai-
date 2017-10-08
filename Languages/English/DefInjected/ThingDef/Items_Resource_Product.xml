@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料 -->
+
+  <Momigalite.label>Momigalite</Momigalite.label>
+  <Momigalite.description>Can be used as fuel.</Momigalite.description>
+
+  <FuelStraw.label>Fuel straw</FuelStraw.label>
+  <FuelStraw.description>Can be used as fuel.</FuelStraw.description>
+
+  <!-- 米俵 -->
+
+  <StrawRiceBag_RawRice.label>StrawRiceBag(Rice)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>This is a collection of much Rice in one. Also, it can be sold as a special product.</StrawRiceBag_RawRice.description>
+
+</LanguageData>

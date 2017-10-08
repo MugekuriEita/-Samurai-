@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BlacksmithApprentice.label>鍛冶師 見習い</BlacksmithApprentice.label>
+  <BlacksmithApprentice.description>長槍、和弓の製作技術を習得できます。</BlacksmithApprentice.description>
+
+  <BlacksmithArtisan.label>鍛冶師 職人</BlacksmithArtisan.label>
+  <BlacksmithArtisan.description>足軽具足、陣笠、十文字槍、大太刀の製作技術を習得できます。</BlacksmithArtisan.description>
+
+  <BlacksmithMaster.label>鍛冶師 親方</BlacksmithMaster.label>
+  <BlacksmithMaster.description>将軍鎧、将軍兜、種子島の製作技術を習得できます。</BlacksmithMaster.description>
+
+
+</LanguageData>
