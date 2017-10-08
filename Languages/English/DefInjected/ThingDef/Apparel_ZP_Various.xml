@@ -3,59 +3,59 @@
 
   <!-- Apparel 分類 下着 -->
 
-  <ZP_NinjaApparel.label>忍装束</ZP_NinjaApparel.label>
-  <ZP_NinjaApparel.description>隠密や偵察に使われる衣装。素早く移動できるので奇襲することができる。</ZP_NinjaApparel.description>
+  <ZP_NinjaApparel.label>NinjaClothes</ZP_NinjaApparel.label>
+  <ZP_NinjaApparel.description>Clothes used for spying and scouting. Moving quickly, you can raid them.</ZP_NinjaApparel.description>
 
-  <ZP_MikoApparel.label>巫女装束</ZP_MikoApparel.label>
-  <ZP_MikoApparel.description>神道の巫女が着用する衣装。神の加護が宿っており邪悪な気から守ってくれる。</ZP_MikoApparel.description>
+  <ZP_MikoApparel.label>MikoCloths</ZP_MikoApparel.label>
+  <ZP_MikoApparel.description>Shinto is a traditional Japanese animism.  This clothes worn by Shinto Miko. YaoyorozuGods that are said to stay in all things will protect them from evil thoughts.</ZP_MikoApparel.description>
 
-  <ZP_GujiApparel.label>神官装束</ZP_GujiApparel.label>
-  <ZP_GujiApparel.description>神道の宮司が着用する衣装。神の加護が宿っており邪悪な気から守ってくれる。</ZP_GujiApparel.description>
+  <ZP_GujiApparel.label>Kan-nusiClothes</ZP_GujiApparel.label>
+  <ZP_GujiApparel.description>Shinto is a traditional Japanese animism.  This clothes worn by Shinto Kan-nusi. YaoyorozuGods that are said to stay in all things will protect them from evil thoughts.</ZP_GujiApparel.description>
 
-  <ZP_SamuraiApparel.label>侍服</ZP_SamuraiApparel.label>
-  <ZP_SamuraiApparel.description>侍が着用する衣装。侍魂が宿っているので近接戦闘の際に加護を得ることが出来る。</ZP_SamuraiApparel.description>
+  <ZP_SamuraiApparel.label>SamueraiClothes</ZP_SamuraiApparel.label>
+  <ZP_SamuraiApparel.description>Clothing worn by the Samurai. Because Samurai spirit resides, you can get protection during the melee battle.</ZP_SamuraiApparel.description>
 
 
   <!-- 足軽具足 Base 防弾チョッキ -->
 
-  <ZP_AsigaruArmor.label>足軽具足</ZP_AsigaruArmor.label>
-  <ZP_AsigaruArmor.description>足軽が着る鎧。どんな状況でも対応できるように動きやすい工夫が施されている。</ZP_AsigaruArmor.description>
+  <ZP_AsigaruArmor.label>AsigaruArmor</ZP_AsigaruArmor.label>
+  <ZP_AsigaruArmor.description>Armor that Ashigaru(soldier) wears. Easy-to-move ingenuity has been given so that any situation can be dealt with.</ZP_AsigaruArmor.description>
 
 
   <!-- 胸当て Base 防弾チョッキ -->
 
-  <ZP_ArcherArmor.label>胸当て</ZP_ArcherArmor.label>
-  <ZP_ArcherArmor.description>弓兵がつける防具。安定した射撃をする事ができる。</ZP_ArcherArmor.description>
+  <ZP_ArcherArmor.label>MuneateArmor</ZP_ArcherArmor.label>
+  <ZP_ArcherArmor.description>Protective gear worn by archers. Stable shooting can be done.</ZP_ArcherArmor.description>
 
 
   <!-- 羽織 Base パーカー -->
 
-  <ZP_HaoriApparel.label>羽織</ZP_HaoriApparel.label>
-  <ZP_HaoriApparel.description>寒い冬にぴったりな上着。礼服としても使えるので大事な御もてなしの際にも重宝する。</ZP_HaoriApparel.description>
+  <ZP_HaoriApparel.label>HaoriCoat</ZP_HaoriApparel.label>
+  <ZP_HaoriApparel.description>A coat suitable for cold winter. Because it can be used as a formal dress, it is useful for important hospitality as well.</ZP_HaoriApparel.description>
 
 
   <!-- 将軍鎧 Base パワーアーマー -->
 
-  <ZP_SyogunArmor.label>将軍鎧</ZP_SyogunArmor.label>
-  <ZP_SyogunArmor.description>将軍のみつける事が許された鎧。分厚い装甲によって守られているので合戦の覇者になれる。</ZP_SyogunArmor.description>
+  <ZP_SyogunArmor.label>SyogunArmor</ZP_SyogunArmor.label>
+  <ZP_SyogunArmor.description>Armor for which only the Syogun(general) can be attached. You can be a champion of the battle because it is protected by thick armor.</ZP_SyogunArmor.description>
 
 
   <!-- 陣笠 Base ヘルメット -->
 
-  <ZP_JingasaHelmet.label>陣笠</ZP_JingasaHelmet.label>
-  <ZP_JingasaHelmet.description>足軽の頭部を守る笠。</ZP_JingasaHelmet.description>
+  <ZP_JingasaHelmet.label>JingasaHelmet</ZP_JingasaHelmet.label>
+  <ZP_JingasaHelmet.description>A Jingasa(helmet) to protect the head of Ashigaru(soldier).</ZP_JingasaHelmet.description>
 
 
   <!-- 将軍兜 Base パワーアーマヘルメット -->
 
-  <ZP_SyougunHelmet.label>将軍兜</ZP_SyougunHelmet.label>
-  <ZP_SyougunHelmet.description>将軍のみつける事が許された兜。将軍たるもの強き精神を持つべし。</ZP_SyougunHelmet.description>
+  <ZP_SyougunHelmet.label>KabutoHelmet</ZP_SyougunHelmet.label>
+  <ZP_SyougunHelmet.description>A Kabuto(helmet) that was only allowed to be worn by the Syogun(general). Have a strong spirit as Syogun(general).</ZP_SyougunHelmet.description>
 
 
   <!-- 足装備 -->
 
-  <ZP_Warazi.label>わらじ</ZP_Warazi.label>
-  <ZP_Warazi.description>藁で作られる日本の伝統的な履物。足にフィットし移動を快適にしてくれる。</ZP_Warazi.description>
+  <ZP_Warazi.label>WaraziShoes</ZP_Warazi.label>
+  <ZP_Warazi.description>Japanese traditional footwear made of straw. It fits the feet and makes the movement comfortable.</ZP_Warazi.description>
 
 
 </LanguageData>

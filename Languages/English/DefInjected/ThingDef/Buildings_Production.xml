@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <JPstyleBlacksmith.label>鍛冶場</JPstyleBlacksmith.label>
+  <JPstyleBlacksmith.label>Smithy</JPstyleBlacksmith.label>
   <JPstyleBlacksmith.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</JPstyleBlacksmith.description>
-  <JPstyleBlacksmith_Blueprint.label>鍛冶場 (blueprint)</JPstyleBlacksmith_Blueprint.label>
-  <JPstyleBlacksmith_Frame.label>鍛冶場 (building)</JPstyleBlacksmith_Frame.label>
+  <JPstyleBlacksmith_Blueprint.label>Smithy (blueprint)</JPstyleBlacksmith_Blueprint.label>
+  <JPstyleBlacksmith_Frame.label>Smithy (building)</JPstyleBlacksmith_Frame.label>
   <JPstyleBlacksmith_Frame.description>A wood-fueled station equipped for smithing non-mechanical weapons and tools.</JPstyleBlacksmith_Frame.description>
 
 

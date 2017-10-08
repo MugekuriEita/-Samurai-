@@ -1,35 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MeleeWeapon_KUNAI.label>苦無【斬】</MeleeWeapon_KUNAI.label>
-  <MeleeWeapon_KUNAI.description>苦無です。装備すると忍者のような気分になって、早く走れます。この苦無は近接戦闘用で投げることはできません。</MeleeWeapon_KUNAI.description>
+  <MeleeWeapon_KUNAI.label>Kunai(MeleeWeapon)</MeleeWeapon_KUNAI.label>
+  <MeleeWeapon_KUNAI.description>Kunai liked survival knife. When you equipped it you feel like a ninja and you can run fast. This Kunai is for melee fighting and can not throw.</MeleeWeapon_KUNAI.description>
 
-  <MeleeWeapon_KATANA.label>刀</MeleeWeapon_KATANA.label>
-  <MeleeWeapon_KATANA.description>東洋に伝わる刀です。ロングソードと比べて作るのに材料と手間がかかりますが、威力はあります。</MeleeWeapon_KATANA.description>
+  <MeleeWeapon_KATANA.label>KatanaBlade</MeleeWeapon_KATANA.label>
+  <MeleeWeapon_KATANA.description>It is a sword handed down in the East. Compared with Longsword, it takes many time and effort to make it, but it has high power.</MeleeWeapon_KATANA.description>
 
 
   <!-- 大太刀 Base 刀 -->
 
-  <ZP_Odachi.label>大太刀</ZP_Odachi.label>
-  <ZP_Odachi.description>更なる威力向上のために作られた大型の刀。</ZP_Odachi.description>
+  <ZP_Odachi.label>OdachiBlade</ZP_Odachi.label>
+  <ZP_Odachi.description>A large sword made for further improvement of power.</ZP_Odachi.description>
 
 
   <!-- 長槍 Base スピア -->
 
-  <ZP_LongSpear.label>長槍</ZP_LongSpear.label>
-  <ZP_LongSpear.description>長柄武器。リーチが長いので近接戦闘の際には相手の間合いの外から攻撃できる。</ZP_LongSpear.description>
+  <ZP_LongSpear.label>NagayariSpear</ZP_LongSpear.label>
+  <ZP_LongSpear.description>A weapon with a long reach. Because the reach is long, you can attack from the outside of the opponent's confrontation in the case of proximity battle.</ZP_LongSpear.description>
 
 
   <!-- 十文字槍 Base スピア -->
 
-  <ZP_JumonjiSpear.label>十文字槍</ZP_JumonjiSpear.label>
-  <ZP_JumonjiSpear.description>長柄武器。槍の穂先を十字にする事で刺突の際に避けにくくし、また引っ掛けたり払うなどの用途を併せ持っている。</ZP_JumonjiSpear.description>
+  <ZP_JumonjiSpear.label>JumonjiSpear</ZP_JumonjiSpear.label>
+  <ZP_JumonjiSpear.description>A weapon with a long reach.It makes the spear tip cross and makes it hard to avoid when piercing. It also has applications such as hooking and scraping.</ZP_JumonjiSpear.description>
 
 
   <!-- 長槍 Base スピア -->
 
-  <ZP_Naginata.label>薙刀</ZP_Naginata.label>
-  <ZP_Naginata.description>長柄武器。間合いを大きく取れるように刀を改良したもの。</ZP_Naginata.description>
+  <ZP_Naginata.label>Naginata</ZP_Naginata.label>
+  <ZP_Naginata.description>A long stick attached to a sword and improved. It looks like a glaive and has a very long reach</ZP_Naginata.description>
 
 
 </LanguageData>

@@ -3,34 +3,34 @@
 
   <!-- クナイ投げ -->
 
-  <kunai_ao.label>飛苦無</kunai_ao.label>
+  <kunai_ao.label>ThrowingKunai</kunai_ao.label>
 
-  <Kunai_Ranged.label>飛苦無</Kunai_Ranged.label>
-  <Kunai_Ranged.description>飛苦無です。装備すると忍者のような気分になって、速く走れます。この苦無は投げる用で、近接攻撃はできません。</Kunai_Ranged.description>
+  <Kunai_Ranged.label>ThrowingKunai</Kunai_Ranged.label>
+  <Kunai_Ranged.description>Throwing Kunai liked survival knife. When you equipped it you feel like a ninja and you can run fast. This Kunai is for throwing and can not attack melee.</Kunai_Ranged.description>
 
 
   <!-- クナイ投げ3 -->
 
-  <kunai_3ao.label>飛苦無【三連】</kunai_3ao.label>
+  <kunai_3ao.label>ThrowingKunai(three-times)</kunai_3ao.label>
 
-  <Kunai_3Ranged.label>飛苦無【三連】</Kunai_3Ranged.label>
-  <Kunai_3Ranged.description>飛苦無です。三本同時に投げます。この苦無には足が速くなる効果はありません。</Kunai_3Ranged.description>
+  <Kunai_3Ranged.label>ThrowingKunai(three-times)</Kunai_3Ranged.label>
+  <Kunai_3Ranged.description>Throwing Kunai liked survival knife. Throw three at the same time. This Kunai has no effect to speed up your feet.</Kunai_3Ranged.description>
 
 
   <!-- 種子島 Base 狙撃銃 -->
 
-  <Bullet_Tanegasima.label>種子島弾</Bullet_Tanegasima.label>
+  <Bullet_Tanegasima.label>TanegasimaBullet</Bullet_Tanegasima.label>
 
-  <Gun_Tanegasima.label>種子島</Gun_Tanegasima.label>
-  <Gun_Tanegasima.description>マスケット銃を改良して作られた火縄銃。口径の大きさと弾丸の重さが特徴的で近距離射撃の際は体の一部を吹っ飛ばせる威力を持っている。しかし、火種や火縄を常に持ち歩かないといけないため移動速度が落ちる。</Gun_Tanegasima.description>
+  <Gun_Tanegasima.label>TanegasimaGun</Gun_Tanegasima.label>
+  <Gun_Tanegasima.description>Arquebus gun made by improving Musket gun. The size of the caliber and the weight of the bullet are distinctive, and it has the power to blow off part of the body in the case of short range shooting. However, it is necessary to always carry around the arquebus rope and the fire rock, so the moving speed drops.</Gun_Tanegasima.description>
 
 
   <!-- 和弓 Base  グレートボウ -->
 
-  <Arrow_JPstyleGreatBow.label>矢</Arrow_JPstyleGreatBow.label>
+  <Arrow_JPstyleGreatBow.label>arrow</Arrow_JPstyleGreatBow.label>
 
-  <Bow_JPstyleGreat.label>和弓</Bow_JPstyleGreat.label>
-  <Bow_JPstyleGreat.description>グレートボウを改良して威力と射程を上げた弓。</Bow_JPstyleGreat.description>
+  <Bow_JPstyleGreat.label>JapaneseBow</Bow_JPstyleGreat.label>
+  <Bow_JPstyleGreat.description>A bow that improved the Great Bow and raised its power and range.</Bow_JPstyleGreat.description>
 
 
 </LanguageData>
