@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Scout.label>斥候兵</ZP_Scout.label>
-  <ZP_Scout.labelPlural>斥候兵s</ZP_Scout.labelPlural>
+  <ZP_Scout.label>Scout</ZP_Scout.label>
+  <ZP_Scout.labelPlural>Scouts</ZP_Scout.labelPlural>
 
-  <ZP_Grenadier.label>足軽擲弾兵</ZP_Grenadier.label>
-  <ZP_Grenadier.labelPlural>足軽擲弾兵s</ZP_Grenadier.labelPlural>
+  <ZP_Grenadier.label>Grenadier</ZP_Grenadier.label>
+  <ZP_Grenadier.labelPlural>Grenadiers</ZP_Grenadier.labelPlural>
 
-  <ZP_Asigaru.label>足軽近接兵</ZP_Asigaru.label>
-  <ZP_Asigaru.labelPlural>足軽近接兵s</ZP_Asigaru.labelPlural>
+  <ZP_Asigaru.label>Asigaru</ZP_Asigaru.label>
+  <ZP_Asigaru.labelPlural>Asigarus</ZP_Asigaru.labelPlural>
 
-  <ZP_Archer.label>足軽射手兵</ZP_Archer.label>
-  <ZP_Archer.labelPlural>足軽射手兵s</ZP_Archer.labelPlural>
+  <ZP_Archer.label>Archer</ZP_Archer.label>
+  <ZP_Archer.labelPlural>Archers</ZP_Archer.labelPlural>
 
-  <ZP_Syougun.label>将軍</ZP_Syougun.label>
-  <ZP_Syougun.labelPlural>将軍s</ZP_Syougun.labelPlural>
+  <ZP_Syougun.label>Syougun</ZP_Syougun.label>
+  <ZP_Syougun.labelPlural>Syouguns</ZP_Syougun.labelPlural>
 
-  <ZP_SamuraiTrader.label>荒くれ商人</ZP_SamuraiTrader.label>
-  <ZP_SamuraiTrader.labelPlural>荒くれ商人s</ZP_SamuraiTrader.labelPlural>
+  <ZP_SamuraiTrader.label>FightingMerchant</ZP_SamuraiTrader.label>
+  <ZP_SamuraiTrader.labelPlural>Fighting Merchants</ZP_SamuraiTrader.labelPlural>
 
 
 </LanguageData>

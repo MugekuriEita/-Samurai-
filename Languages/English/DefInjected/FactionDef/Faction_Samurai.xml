@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Samurai_Faction.label>武家町</ZP_Samurai_Faction.label>
-  <ZP_Samurai_Faction.description>It is a Ninja Regiment that has lived this planet for years and they are tired of wars. These people are looking forward peace.\nBut it does not mean that they will tolerate the invasion of the enemies, they will fight until they are dead.</ZP_Samurai_Faction.description>
-  <ZP_Samurai_Faction.fixedName>武家町</ZP_Samurai_Faction.fixedName>
-  <ZP_Samurai_Faction.pawnsPlural>侍</ZP_Samurai_Faction.pawnsPlural>
+  <ZP_Samurai_Faction.label>Samurai town</ZP_Samurai_Faction.label>
+  <ZP_Samurai_Faction.description>They live quietly dreaming of serving the great Tonosama(lord) someday. But if their companions fall into crisis, they will do their utmost and fight until they die.</ZP_Samurai_Faction.description>
+  <ZP_Samurai_Faction.fixedName>Samurai town</ZP_Samurai_Faction.fixedName>
+  <ZP_Samurai_Faction.pawnsPlural>Samurai</ZP_Samurai_Faction.pawnsPlural>
   <ZP_Samurai_Faction.leaderTitle>general</ZP_Samurai_Faction.leaderTitle>
 
 

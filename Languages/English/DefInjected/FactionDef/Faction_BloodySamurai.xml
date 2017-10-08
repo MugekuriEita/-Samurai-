@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_BloodySamurai_Faction.label>血塗れ侍町</ZP_BloodySamurai_Faction.label>
-  <ZP_BloodySamurai_Faction.description>合戦の中でしか生きられない戦闘狂集団。常に戦える相手を探しては戦いを挑んでいる。</ZP_BloodySamurai_Faction.description>
-  <ZP_BloodySamurai_Faction.fixedName>血塗れ侍町</ZP_BloodySamurai_Faction.fixedName>
-  <ZP_BloodySamurai_Faction.pawnsPlural>血塗れ侍</ZP_BloodySamurai_Faction.pawnsPlural>
+  <ZP_BloodySamurai_Faction.label>Bloody Samurai town</ZP_BloodySamurai_Faction.label>
+  <ZP_BloodySamurai_Faction.description>A battle crazy group that can only live in the Kassen(battle). They are constantly looking for opponents to fight and challenging the (Kassen)battle.</ZP_BloodySamurai_Faction.description>
+  <ZP_BloodySamurai_Faction.fixedName>Bloody Samurai town</ZP_BloodySamurai_Faction.fixedName>
+  <ZP_BloodySamurai_Faction.pawnsPlural>Bloody Samurai</ZP_BloodySamurai_Faction.pawnsPlural>
   <ZP_BloodySamurai_Faction.leaderTitle>general</ZP_BloodySamurai_Faction.leaderTitle>
 
 
