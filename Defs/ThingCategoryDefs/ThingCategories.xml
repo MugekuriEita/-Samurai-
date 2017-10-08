@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThingCategoryDefs>
+	<ThingCategoryDef>
+		<defName>ZP_FoodMeals</defName>
+		<label>日本食</label>
+		<parent>FoodMeals</parent>
+		<iconPath>Things/hakumai_ui</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>Tawara</defName>
+		<label>俵</label>
+		<parent>Manufactured</parent>
+		<iconPath>Things/tawara_ui</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>AnimalFeed</defName>
+		<label>動物飼料</label>
+		<parent>Foods</parent>
+		<iconPath>Things/inawara_ui</iconPath>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>ZipanguWeapon</defName>
+		<label>日本武器</label>
+		<parent>Weapons</parent>
+	</ThingCategoryDef>
+	<ThingCategoryDef>
+		<defName>ZipanguApparel</defName>
+		<label>日本防具</label>
+		<parent>Apparel</parent>
+	</ThingCategoryDef>
+</ThingCategoryDefs>

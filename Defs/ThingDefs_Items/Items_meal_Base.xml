@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThingDefs>
+	<ThingDef Abstract="True" Name="ZPMealBase">
+		<thingClass>ThingWithComps</thingClass>
+		<category>Item</category>
+		<useHitPoints>true</useHitPoints>
+		<selectable>true</selectable>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<Flammability>1.0</Flammability>
+			<Beauty>-4</Beauty>
+			<Mass>0.44</Mass>
+			<DeteriorationRate>10</DeteriorationRate>
+		</statBases>
+		<altitudeLayer>Item</altitudeLayer>
+		<stackLimit>20</stackLimit>
+		<tickerType>Rare</tickerType>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<alwaysHaulable>true</alwaysHaulable>
+		<comps>
+			<li Class="CompProperties_Forbiddable"/>
+			<li Class="CompProperties_Ingredients"/>
+			<li Class="CompProperties_FoodPoisonable"/>
+		</comps>
+		<pathCost>15</pathCost>
+		<resourceReadoutPriority>Last</resourceReadoutPriority>
+		<drawGUIOverlay>true</drawGUIOverlay>
+		<ingestible>
+			<foodType>Meal</foodType>
+			<maxNumToIngestAtOnce>1</maxNumToIngestAtOnce>
+			<optimalityOffset>16</optimalityOffset>
+			<ingestEffect>EatVegetarian</ingestEffect>
+			<ingestSound>Meal_Eat</ingestSound>
+		</ingestible>
+	</ThingDef>
+	<ThingDef Abstract="True" Name="ZPMealRottable" ParentName="ZPMealBase">
+		<comps>
+			<li Class="CompProperties_Rottable">
+				<daysToRotStart>4</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+		</comps>
+		<thingCategories>
+			<li>ZP_FoodMeals</li>
+		</thingCategories>
+	</ThingDef>
+</ThingDefs>

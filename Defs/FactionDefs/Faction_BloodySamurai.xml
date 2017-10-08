@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FactionDefs>
+	<FactionDef>
+		<defName>ZP_BloodySamurai_Faction</defName>
+		<label>血塗れ侍町</label>
+		<description>合戦の中でしか生きられない戦闘狂集団。常に戦える相手を探しては戦いを挑んでいる。</description>
+		<pawnsPlural>血塗れ侍</pawnsPlural>
+		<fixedName>血塗れ侍町</fixedName>
+		<baseSelectionWeight>1</baseSelectionWeight>
+		<requiredCountAtGameStart>1</requiredCountAtGameStart>
+		<maxCountAtGameStart>1</maxCountAtGameStart>
+		<canMakeRandomly>true</canMakeRandomly>
+		<raidCommonality>100</raidCommonality>
+		<canSiege>true</canSiege>
+		<canStageAttacks>true</canStageAttacks>
+		<appreciative>false</appreciative>
+		<leaderTitle>general</leaderTitle>
+		<expandingIconTexture>Samurai/World/Samurai_colony</expandingIconTexture>
+		<colorSpectrum>
+			<li>(0.45, 0.03, 0.02)</li>
+			<li>(0.8, 0.08, 0.18)</li>
+			<li>(0.92, 0.62, 0.06)</li>
+		</colorSpectrum>
+		<startingGoodwill>
+			<min>-100</min>
+			<max>-100</max>
+		</startingGoodwill>
+		<mustStartOneEnemy>true</mustStartOneEnemy>
+		<techLevel>Industrial</techLevel>
+		<backstoryCategory>Raider</backstoryCategory>
+		<hairTags>
+			<li>Rural</li>
+			<li>Tribal</li>
+		</hairTags>
+		<naturalColonyGoodwill>
+			<min>-100</min>
+			<max>-80</max>
+		</naturalColonyGoodwill>
+		<allowedArrivalTemperatureRange>
+			<min>-40</min>
+			<max>45</max>
+		</allowedArrivalTemperatureRange>
+		<pawnGroupMakers>
+			<li>
+				<kindDef>Normal</kindDef>
+				<commonality>100</commonality>
+				<options>
+					<ZP_BloodyScout>100</ZP_BloodyScout>
+					<ZP_BloodyGrenadier>80</ZP_BloodyGrenadier>
+					<ZP_BloodyAsigaru>300</ZP_BloodyAsigaru>
+					<ZP_BloodyArcher>320</ZP_BloodyArcher>
+					<ZP_BloodySyougun>50</ZP_BloodySyougun>
+				</options>
+			</li>
+			<li>
+				<kindDef>FactionBase</kindDef>
+				<options>
+					<ZP_BloodyScout>100</ZP_BloodyScout>
+					<ZP_BloodyGrenadier>80</ZP_BloodyGrenadier>
+					<ZP_BloodyAsigaru>300</ZP_BloodyAsigaru>
+					<ZP_BloodyArcher>300</ZP_BloodyArcher>
+					<ZP_BloodySyougun>50</ZP_BloodySyougun>
+				</options>
+			</li>
+		</pawnGroupMakers>
+		<homeIconPath>World/WorldObjects/DefaultFactionBase</homeIconPath>
+	</FactionDef>
+</FactionDefs>

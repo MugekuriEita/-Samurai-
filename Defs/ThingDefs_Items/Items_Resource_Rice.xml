@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThingDefs>
+	<ThingDef ParentName="RoughPlantBase">
+		<defName>Straw</defName>
+		<label>藁</label>
+		<description>脱穀したさいの副産物。\n動物の飼料、肥料、燃料または工芸品など様々な場面で活躍する。</description>
+		<stackLimit>300</stackLimit>
+		<graphicData>
+			<texPath>Things/PlantFoodRaw/inawara</texPath>
+		</graphicData>
+		<socialPropernessMatters>true</socialPropernessMatters>
+		<statBases>
+			<MarketValue>0.5</MarketValue>
+			<Mass>0.012</Mass>
+		</statBases>
+		<thingCategories>
+			<li>AnimalFeed</li>
+		</thingCategories>
+		<ingestible>
+			<preferability>DesperateOnly</preferability>
+			<nutrition>0.06</nutrition>
+			<foodType>Kibble</foodType>
+			<preferability>RawBad</preferability>
+			<tasteThought>AteKibble</tasteThought>
+			<optimalityOffset>-30</optimalityOffset>
+			<ingestEffect>EatVegetarian</ingestEffect>
+			<ingestSound>RawVegetable_Eat</ingestSound>
+		</ingestible>
+		<tradeTags>
+			<li>Fuel</li>
+		</tradeTags>
+	</ThingDef>
+</ThingDefs>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThingDefs>
+	<!--=============== 燃料 ====================-->
+	<ThingDef ParentName="ResourceBase">
+		<defName>Momigalite</defName>
+		<label>モミガライト</label>
+		<description>籾殻を燃料用に加工したもの。</description>
+		<graphicData>
+			<texPath>Things/Product/Momigalite</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<stackLimit>150</stackLimit>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<MarketValue>1</MarketValue>
+			<Mass>0.02</Mass>
+			<Flammability>5</Flammability>
+			<DeteriorationRate>10</DeteriorationRate>
+		</statBases>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<tradeTags>
+			<li>Fuel</li>
+		</tradeTags>
+	</ThingDef>
+	<ThingDef ParentName="ResourceBase">
+		<defName>FuelStraw</defName>
+		<label>燃料用藁</label>
+		<description>藁を燃料用に加工したもの。</description>
+		<graphicData>
+			<texPath>Things/PlantFoodRaw/inawara</texPath>
+			<color>(222,184,135)</color>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<stackLimit>150</stackLimit>
+		<statBases>
+			<MaxHitPoints>50</MaxHitPoints>
+			<MarketValue>1</MarketValue>
+			<Mass>0.02</Mass>
+			<Flammability>5</Flammability>
+			<DeteriorationRate>10</DeteriorationRate>
+		</statBases>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<tradeTags>
+			<li>Fuel</li>
+		</tradeTags>
+	</ThingDef>
+	<!--=============== 米俵 ====================-->
+	<ThingDef ParentName="ResourceBase">
+		<defName>StrawRiceBag_RawRice</defName>
+		<label>米俵(米)</label>
+		<description>米(生)を大量に保管できる。また、特産品として売れる。</description>
+		<graphicData>
+			<texPath>Things/Product/komedawara</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<color>(240,230,140)</color>
+		</graphicData>
+		<stackLimit>75</stackLimit>
+		<statBases>
+			<MaxHitPoints>100</MaxHitPoints>
+			<MarketValue>750</MarketValue>
+			<Beauty>3</Beauty>
+			<Mass>10</Mass>
+			<DeteriorationRate>10</DeteriorationRate>
+		</statBases>
+		<thingCategories>
+			<li>Tawara</li>
+		</thingCategories>
+		<tradeTags>
+			<li>Tawara</li>
+		</tradeTags>
+	</ThingDef>
+</ThingDefs>
